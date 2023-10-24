@@ -1,11 +1,12 @@
--PENDAHULUAN-
+# PENDAHULUAN
+
 Program di bawah ini adalah aplikasi pemesanan barang dari PT Intan Nusa Karya. 
 Aplikasi ini memungkinkan pengguna untuk menginputkan data diri, memilih produk yang ingin dipesan, 
 dan menghasilkan detail pesanan beserta total harga.Aplikasi ini mencakup nested if, looping seperti for,do,while 
 dan Terdapat juga fungsi-fungsi yang digunakan dalam program ini, yaitu dataPemesan() 
 untuk menginputkan data diri pemesan dan menuProduk() untuk menampilkan menu produk dan mengambil pilihan pengguna.
 
--STUDI KASUS  APLIKASI PEMESANAN BARANG PT INTAN NUSA KARYA-
+# STUDI KASUS  APLIKASI PEMESANAN BARANG PT INTAN NUSA KARYA
 
 PT Intan Nusa Karya merupakan perusahaan perdagangan peralatan otomotif, 
 industri yang ingin mengembangkan aplikasi pemesanan barang untuk mempermudah pelanggan dalam melakukan transaksi. 
