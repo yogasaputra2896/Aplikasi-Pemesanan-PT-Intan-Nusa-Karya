@@ -1,6 +1,6 @@
 # PENDAHULUAN
 
-Program di bawah ini adalah aplikasi pemesanan barang dari PT Intan Nusa Karya. 
+Program di bawah ini adalah aplikasi pemesanan barang untuk PT Intan Nusa Karya yang kami buat untuk kebutuhan Tugas UAS 
 Aplikasi ini memungkinkan pengguna untuk menginputkan data diri, memilih produk yang ingin dipesan, 
 dan menghasilkan detail pesanan beserta total harga.Aplikasi ini mencakup nested if, looping seperti for,do,while 
 dan Terdapat juga fungsi-fungsi yang digunakan dalam program ini, yaitu dataPemesan() 
@@ -21,21 +21,21 @@ Dengan mengembangkan aplikasi pemesanan barang yang mencakup fitur-fitur yang re
 PT Intan Nusa Karya dapat meningkatkan efisiensi operasional, memberikan pengalaman transaksi yang lebih baik kepada pelanggan, 
 dan memperkuat posisi mereka sebagai penyedia peralatan otomotif, industri yang terpercaya.
 
-HASIL RUNING APLIKASI
+# HASIL RUNING APLIKASI
 
-1.TAMPILAN AWAL INPUT DATA PENESAN
+## 1.TAMPILAN AWAL INPUT DATA PENESAN
  ![image](https://github.com/yogasaputra2896/Project-Cpp-Aplikasi-Pemesanan-PT-Intan-Nusa-Karya/assets/140365312/814a1365-0c07-421a-b726-8e300c1c2290)
 
-2.TAMPILAN MENU PRODUK
+## 2.TAMPILAN MENU PRODUK
 ![image](https://github.com/yogasaputra2896/Project-Cpp-Aplikasi-Pemesanan-PT-Intan-Nusa-Karya/assets/140365312/cbcc8189-e6d4-4bf5-815e-9ea6e2a5a8f7)
 
-3.TAMPILAN PILIHAN TIPE/WARNA
+## 3.TAMPILAN PILIHAN TIPE/WARNA
  ![image](https://github.com/yogasaputra2896/Project-Cpp-Aplikasi-Pemesanan-PT-Intan-Nusa-Karya/assets/140365312/77c279f4-7f60-40b1-939c-0aaae0c7ccf5)
 
-4.TAMPILAN LOOPING MENU
+## 4.TAMPILAN LOOPING MENU
  ![image](https://github.com/yogasaputra2896/Project-Cpp-Aplikasi-Pemesanan-PT-Intan-Nusa-Karya/assets/140365312/0d3d2a1d-cb51-44e5-84ff-fb48a279a556)
 
-5.TAMPILAN DETAIL PESANAN
+## 5.TAMPILAN DETAIL PESANAN
  ![image](https://github.com/yogasaputra2896/Project-Cpp-Aplikasi-Pemesanan-PT-Intan-Nusa-Karya/assets/140365312/2fa5586e-3be4-40a2-946b-edef2e2d3f3c)
 
 
