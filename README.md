@@ -9,7 +9,7 @@ untuk menginputkan data diri pemesan dan menuProduk() untuk menampilkan menu pro
 # STUDI KASUS  APLIKASI PEMESANAN BARANG PT INTAN NUSA KARYA
 
 PT Intan Nusa Karya merupakan perusahaan perdagangan peralatan otomotif, 
-industri yang ingin mengembangkan aplikasi pemesanan barang untuk mempermudah pelanggan dalam melakukan transaksi. 
+Dan industri yang ingin mengembangkan aplikasi pemesanan barang untuk mempermudah pelanggan dalam melakukan transaksi. 
 Berikut ini adalah studi kasus mengenai pengembangan aplikasi pemesanan barang PT Intan Nusa Karya.
 Output yang ditampilkan
    - Data pelanggan
@@ -21,9 +21,9 @@ Dengan mengembangkan aplikasi pemesanan barang yang mencakup fitur-fitur yang re
 PT Intan Nusa Karya dapat meningkatkan efisiensi operasional, memberikan pengalaman transaksi yang lebih baik kepada pelanggan, 
 dan memperkuat posisi mereka sebagai penyedia peralatan otomotif, industri yang terpercaya.
 
-# HASIL RUNING APLIKASI
+# HASIL RUNNING APLIKASI
 
-## 1.TAMPILAN AWAL INPUT DATA PENESAN
+## 1.TAMPILAN AWAL INPUT DATA PEMESAN
  ![image](https://github.com/yogasaputra2896/Project-Cpp-Aplikasi-Pemesanan-PT-Intan-Nusa-Karya/assets/140365312/814a1365-0c07-421a-b726-8e300c1c2290)
 
 ## 2.TAMPILAN MENU PRODUK
