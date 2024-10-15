@@ -38,5 +38,10 @@ dan memperkuat posisi mereka sebagai penyedia peralatan otomotif, industri yang 
 ## 5.TAMPILAN DETAIL PESANAN
  ![image](https://github.com/yogasaputra2896/Project-Cpp-Aplikasi-Pemesanan-PT-Intan-Nusa-Karya/assets/140365312/2fa5586e-3be4-40a2-946b-edef2e2d3f3c)
 
+# Tutorial
+- Clone repositori ini atau unduh file Aplikasi Pemesanan PT Intan Nusa Karya.cpp
+- Jalankan aplikasi menggunakan visual code atau Texteditor lainnya
 
+# Kontribusi
+Jika Anda tertarik untuk berkontribusi, silakan buat pull request atau ajukan issue di halaman ini.
 
